@@ -2,4 +2,4 @@
 
 ## Basic training page created to train SASS - css preprocessor.
 ## Only SCSS and HTML were used to create this page.
-## [GithubPages]() 
+## [GithubPages](https://davidsurina.github.io/restaurant-sass-training-project/) 

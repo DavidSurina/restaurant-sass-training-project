@@ -1,5 +1,5 @@
-# restaurant-sass-training-project
+# Restaurant Georgia training project
 
-## Basic training page created to train SASS - css preprocessor.
-## Only SCSS and HTML were used to create this page.
-## [GithubPages](https://davidsurina.github.io/restaurant-sass-training-project/) 
+- basic training page created to train SASS
+- only Sass/Scss and HTML were used to create this page
+- deployed on GithubPages [GithubPages](https://davidsurina.github.io/restaurant-sass-training-project/) 
